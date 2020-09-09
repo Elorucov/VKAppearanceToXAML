@@ -12,7 +12,7 @@
             <RowDefinition/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        <TextBlock Margin="6,3,6,6" TextWrapping="Wrap" Text="Эта программа сгенерирует файл ресурсов с цветами из VK Appearance в формате XAML для использования его в проектах UWP.   ©2019-2020 Elorucov."/>
+        <TextBlock Margin="6,3,6,6" TextWrapping="Wrap" Text="Эта программа сгенерирует файл ресурсов с цветами из VK Appearance в формате XAML для использования его в проектах UWP.   ©2019-2020 ELOR."/>
         <TextBox x:Name="ProcessLog" Grid.Row="1" Margin="6" Padding="3" BorderThickness="1" BorderBrush="{DynamicResource {x:Static SystemColors.WindowFrameBrushKey}}" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" IsReadOnly="True" FontSize="12" FontFamily="Consolas"/>
         <Button x:Name="StartButton" Grid.Row="2" Margin="6" Content="Запустить!" Click="StartButton_Click"/>
     </Grid>

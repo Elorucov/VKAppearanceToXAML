@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("VK Appearance To XAML")]
 [assembly: AssemblyDescription("Generate XAML dictionaries from vk appearance files.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Elorucov")]
+[assembly: AssemblyCompany("ELOR")]
 [assembly: AssemblyProduct("VKAppearanceToXAML")]
-[assembly: AssemblyCopyright("Copyright © 2019 Elchin Orujov (Elorucov)")]
+[assembly: AssemblyCopyright("Copyright © 2019-2020 Elchin Orujov (Elorucov / ELOR)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -51,5 +51,5 @@ using System.Windows;
 // Можно задать все значения или принять номер сборки и номер редакции по умолчанию.
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.1.0")]
-[assembly: AssemblyFileVersion("1.0.1.0")]
+[assembly: AssemblyVersion("1.0.2.0")]
+[assembly: AssemblyFileVersion("1.0.2.0")]
